@@ -277,7 +277,6 @@
 
 
 //Generate a random Number
-<<<<<<< HEAD
 // function randomNumber(){
 //   let num = Math.random() * 10;
 //   console.log(`The random number is generated is: ${num}`);
@@ -358,12 +357,20 @@
 // }
 
 // checkPrimeNo(num);
-=======
-function randomNumber(){
-  let num = Math.random() * 10;
-  console.log(`The random number is generated is: ${num}`);
-}
 
-randomNumber();
 
->>>>>>> ef7c79ddd38266085f94a64b16621a9ef6a8ec0b
+
+
+//Multiplication table
+// let num = prompt('Enter the number: ');
+// function multiplication(num){
+//   let i;
+//   for( i = 1; i <= 10; i++){
+//     let result = num * i;
+//     console.log(`${num} * ${i} = ${result}`);
+//   }
+// }
+
+// multiplication(num);
+
+
